@@ -12,6 +12,7 @@ videosAvatar/
 │   ├── matematica-basica/     # Avatar MentorIA - Matemática básica
 │   └── matematica-secundaria/ # Avatar MentorIA - Matemática secundaria
 ├── Hub-Providencia/           # Avatar Hub Providencia
+├── Cencomall/                 # Avatar CencoMall
 ├── Colina/                    # Avatar Colina
 ├── Onstar/                    # Avatar Onstar
 ├── SimaCare-Hombre/           # Avatar SimaCare masculino
